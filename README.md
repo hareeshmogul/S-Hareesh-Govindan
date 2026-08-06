@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Georgia&weight=500&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=Turning+prompts+into+production+RAG+pipelines;Milvus+%2B+FastAPI+%2B+too+much+coffee;Intern+%E2%86%92+SDE-1+in+under+3+months;Shipping+embeddings+like+it%27s+a+love+language" alt="Typing SVG" />
 
-<i>slow burn like Bridgerton, obsessive about the details, ships at F1 speed 🏁</i>
+<i>The The Road to greatness can take you to the edge.</i>
 
 <br/>
 
